@@ -11,11 +11,11 @@ To run this application, you need to first clone the `getting-started-with-the-d
 
 ### Grouping
 
-The.NET MAUI DataForm allows users to [group editors](https://help.syncfusion.com/maui/dataform/grouping) that are related to one other.
+The.NET MAUI DataForm allows users to [group editors](https://help.syncfusion.com/maui/dataform/grouping?utm_source=github&utm_medium=listing&utm_campaign=maui-dataform-github-samples) that are related to one other.
 
 ### Validation
 
-The .NET MAUI DataForm control supports [validating data](https://help.syncfusion.com/maui/dataform/validation) or user input before it is committed to the underlying data object by showing the error to alert the user to fill proper details in the data form or that it is a valid message. It supports different validation modes such as LostFocus, PropertyChanged, and manual to determine when the value should be validated.
+The .NET MAUI DataForm control supports [validating data](https://help.syncfusion.com/maui/dataform/validation?utm_source=github&utm_medium=listing&utm_campaign=maui-dataform-github-samples) or user input before it is committed to the underlying data object by showing the error to alert the user to fill proper details in the data form or that it is a valid message. It supports different validation modes such as LostFocus, PropertyChanged, and manual to determine when the value should be validated.
 
 ### Appearance customization
 
@@ -38,7 +38,7 @@ The .NET MAUI DataForm supports [localizing](https://help.syncfusion.com/maui/da
 
 [Documentation](https://help.syncfusion.com/maui/dataform/getting-started?utm_source=github&utm_medium=listing&utm_campaign=maui-dataform-github-samples)
 
-[View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-dotnet-maui-dataform.git?utm_source=github&utm_medium=listing&utm_campaign=maui-dataform-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-dotnet-maui-dataform?utm_source=github&utm_medium=listing&utm_campaign=maui-dataform-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-dataform-github-samples)
 
