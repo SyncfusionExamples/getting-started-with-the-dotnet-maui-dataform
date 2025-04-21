@@ -9,7 +9,9 @@
         <local:ViewModel/>
     </ContentPage.BindingContext>
     
-    <sf:SfDataForm DataObject="{Binding Employee}"
+    <sf:SfDataForm 
+        x:DataType="local:ViewModel"
+        DataObject="{Binding Employee}"
                    LayoutType="TextInputLayout"/>
 
 </ContentPage>
